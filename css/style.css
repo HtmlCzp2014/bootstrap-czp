@@ -185,7 +185,7 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 	background-image:url('../img/tile-d-bg.png');
 }
 .bg-forrest{
-	background-image:url('../img/5.jpg');
+	background-image:url('../img/2.jpg');
 }
 
 /* = NavBar
@@ -514,6 +514,7 @@ iframe{
     .btn.pull-left, .btn.pull-right{
        float:none!important;
     }
+
     .bloc-group .bloc{
          display:block;
          width:100%;
@@ -542,4 +543,5 @@ iframe{
         margin-top: 50px;
         margin-bottom: 50px;
     }
+
 }
