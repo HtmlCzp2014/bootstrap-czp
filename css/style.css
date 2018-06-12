@@ -1,7 +1,4 @@
-/*-----------------------------------------------------------------------------------*/
-/*	    My Site
-/*      Built with Blocs
-/*-----------------------------------------------------------------------------------*/
+
 
 body{
 	margin:0;
@@ -188,7 +185,7 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 	background-image:url('../img/tile-d-bg.png');
 }
 .bg-forrest{
-	background-image:url('../img/forrest.jpg');
+	background-image:url('../img/5.jpg');
 }
 
 /* = NavBar
